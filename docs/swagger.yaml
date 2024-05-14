@@ -1,11 +1,11 @@
 openapi: "3.0.3"
 
 info:
-  title: "purchase-backend API"
+  title: "sample-backend API"
   version: "1.0.0"
 
 paths:
-  "/priceAssessment":
+  "/sample":
     get:
       summary: "メッセージ取得"
       description: "メッセージを取得します"
