@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: 0.0.0
-  title: RESTful API
+  title: Sample API
   description: >-
     バックエンドAPI
 servers:
